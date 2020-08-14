@@ -1,3 +1,3 @@
 # Game-of-Blocks
-This is a 
+This is a blocks game
 
