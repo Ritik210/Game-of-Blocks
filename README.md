@@ -1,3 +1,3 @@
 # Game-of-Blocks
-This is a blocks game
+This is a blocks game developed
 
